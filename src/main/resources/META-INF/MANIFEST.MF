@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.nuxeo.ecm.automation.core.operations.business
+ .adapter.nuxeo-custom-business-objects;singleton=true
+Bundle-Version: 1.0.0
+Bundle-Name: nuxeo-custom-business-objects
+Bundle-ClassPath: .
+Bundle-ActivationPolicy: lazy
+Bundle-ManifestVersion: 2
+Bundle-Vendor: org.nuxeo.ecm.automation.core.operations.business.adapt
+ er
+Nuxeo-Component: OSGI-INF/org.nuxeo.ecm.automation.core.operations.bus
+ iness.adapter-recent-children-adapter-contrib.xml
+
